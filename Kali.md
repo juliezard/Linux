@@ -7,3 +7,6 @@
 
 - Check disk space
   - ```df -H``` -H for human readable
+
+- Edit hosts file 
+  - ```sudo nano /etc/hosts```
